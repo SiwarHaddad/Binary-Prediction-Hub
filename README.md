@@ -33,8 +33,8 @@ This project implements a machine learning pipeline for binary classification, d
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SiwarHaddad/Binary-Prediction-Hub.git
-   cd Binary-Prediction-Hub
+   git clone https://github.com/<your-username>/BinaryClassifierML.git
+   cd BinaryClassifierML
    ```
 2. Install Python dependencies:
    ```bash
