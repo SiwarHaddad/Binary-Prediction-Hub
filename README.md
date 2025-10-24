@@ -24,21 +24,17 @@ This project implements a machine learning pipeline for binary classification, d
 
 ### Prerequisites
 - Python 3.8+
-- Install dependencies:
-  ```bash
-  pip install -r requirements.txt
-  ```
+- Install dependencies
 - Node.js and npm for localtunnel (optional, for web app external access)
 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/BinaryClassifierML.git
-   cd BinaryClassifierML
+   git clone https://https://github.com/SiwarHaddad/Binary-Prediction-Hub.git
+   cd Binary-Prediction-Hub
    ```
 2. Install Python dependencies:
    ```bash
-   pip install -r requirements.txt
    npm install localtunnel
    ```
 3. For the demo, ensure the UCI Adult dataset is accessible (loaded via URL in the notebook). For custom datasets, upload a CSV file via the web app.
