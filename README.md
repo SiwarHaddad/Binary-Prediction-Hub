@@ -1,4 +1,4 @@
-# BinaryClassifierML
+# Binary-Prediction-Hub
 
 ## Project Overview
 This project implements a machine learning pipeline for binary classification, demonstrated using the UCI Adult Census dataset but designed to support any binary classification dataset. It includes exploratory data analysis (EDA), data preprocessing, model training, evaluation, and an interactive Streamlit web application with SHAP model explanations.
